@@ -41,10 +41,10 @@ PredictFEM/
 ---
 
 ### ⚠️ **Note on Missing Data Files**
-The directories **`models/` and `data/`** exist but do not contain actual files because the datasets and trained models are too large for the repository.  
-- To use the project, download the necessary files from the provided links or generate them using the **scripts in `/scripts/`**.
-- Place downloaded or generated data in the `data/` directory.
-- Place trained models in the `models/` directory.
+The directories `PredictFEM/models/` and `PredictFEM/data/`** exist but do not contain actual files because the datasets and trained models are too large for the repository.
+- To use the project, download the necessary files from the provided links or generate them using the scripts in `PredictFEM/scripts/`.
+- Place downloaded or generated data in the `PredictFEM/data/` directory.
+- Place trained models in the `PredictFEM//models/` directory.
 
 ---
 
