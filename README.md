@@ -7,9 +7,9 @@ PredictFEM is a framework that combines **Finite Element Method (FEM) simulation
 
 ## **📁 Project Structure**
 
+```
 PredictFEM/
 │── main.py                   # Entry point for running predictions
-
 │── scripts/                   # Contains scripts for data generation, preprocessing, training, and evaluation
 │   ├── preprocess_data.py      # Normalizes FEM data before training
 │   ├── generate_fem_data.py    # Generates FEM-based displacement data
@@ -34,7 +34,7 @@ PredictFEM/
 │── requirements.txt             # List of dependencies for running the project
 │── .gitignore                   # Specifies files and folders to ignore in version control
 │── README.md                    # Project documentation
-
+```
 
 ---
 
