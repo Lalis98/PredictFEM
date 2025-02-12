@@ -115,7 +115,6 @@ This project is licensed under the MIT License.
 
 ## **👨‍💻 Contributors**
 - **[Michalis Lefkiou](https://github.com/Lalis98)** - Naval Architect & Marine Engineer | Computational Mechanics  
-- [Other Contributors]
 
 ## **📬 Contact**
 For questions or collaboration, feel free to reach out:  
