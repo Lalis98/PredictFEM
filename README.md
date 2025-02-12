@@ -84,7 +84,8 @@ python scripts/evaluate_predictions.py
  - 📊 Performance Evaluation: Uses Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score to assess model accuracy.
  - 🔄 Data Preprocessing: Normalizes input data and applies MinMax scaling.
  - 💾 Reproducible Workflow: Well-structured pipeline from data generation to prediction.
- - 🛠 Technologies Used
+
+## **🛠 Technologies Used**
  - Python 3.8+
  - NumPy & Polars (Data handling)
  - PyTorch (LSTM model)
@@ -111,5 +112,5 @@ This project is licensed under the MIT License.
 
 ## **📬 Contact**
 For questions or collaboration: 📧 Email: michalis.leukioug1@gmail.com
-🔗 GitHub: yourgithubprofile
+🔗 GitHub: [yourgithubprofile](https://github.com/Lalis98)
 
