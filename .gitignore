@@ -1,0 +1,18 @@
+# Ignore Python cache and compiled files
+__pycache__/
+
+.idea/
+.idea/*.xml  # Ignore XML files inside .idea/
+
+# Ignore virtual environments
+venv/
+.env/
+
+*.idea
+
+# Ignore raw and processed data files
+data/raw/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
