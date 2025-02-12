@@ -41,8 +41,8 @@ PredictFEM/
 ### ⚠️ **Note on Missing Data Files**
 The directories **`models/` and `data/`** exist but do not contain actual files because the datasets and trained models are too large for the repository.  
 - To use the project, download the necessary files from the provided links or generate them using the **scripts in `/scripts/`**.
-- **Place downloaded or generated data in the `data/` directory.**
-- **Place trained models in the `models/` directory.**
+- Place downloaded or generated data in the `data/` directory.
+- Place trained models in the `models/` directory.
 
 ---
 
@@ -113,12 +113,13 @@ Example results comparing FEM vs. LSTM predictions:
 This project is licensed under the MIT License.
 
 
-
 ## **👨‍💻 Contributors**
-[Michalis Lefkiou] - Naval Architect & Marine Engineer | Computational Mechanics
-[Other Contributors]
+- **[Michalis Lefkiou](https://github.com/Lalis98)** - Naval Architect & Marine Engineer | Computational Mechanics  
+- [Other Contributors]
 
 ## **📬 Contact**
-For questions or collaboration: 📧 Email: michalis.leukioug1@gmail.com
-🔗 GitHub: [yourgithubprofile](https://github.com/Lalis98)
+For questions or collaboration, feel free to reach out:  
+📧 **Email**: [michalis.leukioug1@gmail.com](mailto:michalis.leukioug1@gmail.com)  
+🔗 **GitHub**: [Lalis98](https://github.com/Lalis98)
+
 
