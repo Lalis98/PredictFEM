@@ -78,32 +78,38 @@ Compute error metrics and visualize predictions:
 python scripts/evaluate_predictions.py
 ```
 
-📌 Features
-🏗 Custom FEM Solver: Computes displacements using an in-house finite element analysis engine.
-🤖 LSTM-Based Prediction: Learns from FEM data to approximate displacement fields.
-📊 Performance Evaluation: Uses Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score to assess model accuracy.
-🔄 Data Preprocessing: Normalizes input data and applies MinMax scaling.
-💾 Reproducible Workflow: Well-structured pipeline from data generation to prediction.
-🛠 Technologies Used
-Python 3.8+
-NumPy & Polars (Data handling)
-PyTorch (LSTM model)
-Scikit-Learn (Data normalization & evaluation metrics)
-Matplotlib (Visualization)
-📊 Model Performance
+## **📌 Features**
+ - 🏗 Custom FEM Solver: Computes displacements using an in-house finite element analysis engine.
+ - 🤖 LSTM-Based Prediction: Learns from FEM data to approximate displacement fields.
+ - 📊 Performance Evaluation: Uses Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score to assess model accuracy.
+ - 🔄 Data Preprocessing: Normalizes input data and applies MinMax scaling.
+ - 💾 Reproducible Workflow: Well-structured pipeline from data generation to prediction.
+ - 🛠 Technologies Used
+ - Python 3.8+
+ - NumPy & Polars (Data handling)
+ - PyTorch (LSTM model)
+ - Scikit-Learn (Data normalization & evaluation metrics)
+ - Matplotlib (Visualization)
+
+## **📊 Model Performance**
 Example results comparing FEM vs. LSTM predictions:
 
-Metric	U_X (X-Displacement)	U_Y (Y-Displacement)
-MAE	0.0023	0.0019
-MSE	0.00005	0.00004
-R² Score	0.98	0.97
-📄 License
+| Metric    | U_X (X-Displacement) | U_Y (Y-Displacement) |
+|-----------|----------------------|----------------------|
+| **MAE**   | 0.0023               | 0.0019               |
+| **MSE**   | 0.00005              | 0.00004              |
+| **R² Score** | 0.98             | 0.97                 |
+
+## **📄 License**
 This project is licensed under the MIT License.
 
-👨‍💻 Contributors
+
+
+## **👨‍💻 Contributors**
 [Michalis Lefkiou] - Naval Architect & Marine Engineer | Computational Mechanics
 [Other Contributors]
-📬 Contact
+
+## **📬 Contact**
 For questions or collaboration: 📧 Email: michalis.leukioug1@gmail.com
 🔗 GitHub: yourgithubprofile
 
