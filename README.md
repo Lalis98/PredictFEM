@@ -42,40 +42,42 @@ PredictFEM/
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/yourusername/PredictFEM.git
-cd PredictFEM
-2️⃣ Install Dependencies
+```
+
+### **2️⃣ Install Dependencies**
 ```sh
 pip install -r requirements.txt
 ```
 
-3️⃣ Generate FEM Data
+### **3️⃣ Generate FEM Data**
 Run the script to create a dataset using the FEM solver:
 
-sh
-Copy
-Edit
+```sh
 python scripts/generate_fem_data.py
-4️⃣ Train the LSTM Model
+```
+
+### **4️⃣ Train the LSTM Model**
 Train the LSTM model on the generated FEM data:
 
-sh
-Copy
-Edit
+```sh
 python scripts/train_ai_model.py
-5️⃣ Run Predictions
+```
+
+
+### **5️⃣ Run Predictions**
 Use the trained model to predict displacements:
 
-sh
-Copy
-Edit
+```sh
 python scripts/predict_fem.py
-6️⃣ Evaluate Model Performance
+```
+
+### **6️⃣ Evaluate Model Performance**
 Compute error metrics and visualize predictions:
 
-sh
-Copy
-Edit
+```sh
 python scripts/evaluate_predictions.py
+```
+
 📌 Features
 🏗 Custom FEM Solver: Computes displacements using an in-house finite element analysis engine.
 🤖 LSTM-Based Prediction: Learns from FEM data to approximate displacement fields.
@@ -99,9 +101,9 @@ R² Score	0.98	0.97
 This project is licensed under the MIT License.
 
 👨‍💻 Contributors
-[Your Name] - Project Lead & Developer
+[Michalis Lefkiou] - Naval Architect & Marine Engineer | Computational Mechanics
 [Other Contributors]
 📬 Contact
-For questions or collaboration: 📧 Email: your.email@example.com
+For questions or collaboration: 📧 Email: michalis.leukioug1@gmail.com
 🔗 GitHub: yourgithubprofile
 
