@@ -30,8 +30,8 @@ PredictFEM/
 │── data/                       # Contains input/output FEM data
 │   ├── train_data.csv          # Training dataset
 │   ├── test_data.csv           # Testing dataset
-│   ├── processed_test_data.csv # Testing dataset
-│   ├── processed_train_data.csv # Testing dataset
+│   ├── processed_test_data.csv # Training normalized dataset
+│   ├── processed_train_data.csv # Testing normalized dataset
 │   ├── predicted_displacements.csv # LSTM model predictions
 │── requirements.txt             # List of dependencies for running the project
 │── .gitignore                   # Specifies files and folders to ignore in version control
