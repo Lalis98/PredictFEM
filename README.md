@@ -105,7 +105,7 @@ python scripts/evaluate_predictions.py
 ## **📊 Model Performance**
 Example results comparing FEM vs. LSTM predictions:
 
-| Metric    | U_X (X-Displacement) | U_Y (Y-Displacement) |
+| Metric    | $U_x$ (X-Displacement) | $U_Y$ (Y-Displacement) |
 |-----------|----------------------|----------------------|
 | **MAE**   | 0.0023               | 0.0019               |
 | **MSE**   | 0.00005              | 0.00004              |
